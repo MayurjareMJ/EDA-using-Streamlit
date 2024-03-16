@@ -1,0 +1,10 @@
+pip install streamlit
+pip install plotly
+pip install pandas
+
+
+# os in python bulid in function so you can import
+import os
+
+#Bulid in function in python
+import warnings
